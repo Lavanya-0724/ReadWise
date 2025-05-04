@@ -9,6 +9,19 @@ A Flask-based web application that provides personalized book recommendations ba
 - Modern and responsive UI
 - Case-insensitive book search
 
+## Screenshots
+
+Below are some screenshots of the BookWise application in action:
+
+![Home Page](screens/Screen1.png)
+_Home page displaying popular books and search bar._
+
+![Recommendations](screens/Screen2.png)
+_Personalized book recommendations based on user preferences._
+
+![Book Details](screens/Screen3.png)
+_Detailed view of a selected book._
+
 ## Local Development
 
 1. Clone the repository
